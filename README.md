@@ -53,7 +53,7 @@ Employees working overtime show higher attrition.
 
 Lower salary bands have higher turnover rates.
 
-Sales department shows comparatively higher attrition.
+Engineering and Sales department shows comparatively higher attrition.
 
 Employees with fewer years at the company are more likely to leave.
 
